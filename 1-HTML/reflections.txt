@@ -1,0 +1,24 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about
+ web development here. Answer the following questions:
+
+
+  * What new skills have you learned?
+
+    I wouldn't say I learned any new skills, but it was the first time I got to use the strikethrough tag, the
+    superscript tag and setup my semantics for an article.
+
+
+  * What has been easy?
+
+    Most of HTML markup is something I'm familiar with the Most
+
+
+  * What has been difficult?
+
+    I guess deciding if I mark it up from experience or by following the lessons and keeping it simple.
+
+
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+    Just remembering to take everything in bite-sized chunks. I used this strategy to go line by line and 
+    make sure to markup the mockup EXACTLY like I had saw it.
