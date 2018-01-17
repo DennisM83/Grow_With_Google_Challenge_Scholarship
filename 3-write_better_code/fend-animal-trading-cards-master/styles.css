@@ -1,0 +1,57 @@
+.card {
+
+			position: relative;
+			top: 8px;
+			left: 15px;
+			height: 550px;
+			width: 329px;
+			background-color: #fff;
+			margin: 0 auto;
+			border: 1px solid #d5d5d5;
+			box-shadow: 5px 5px 2px #88888844;
+			background-color: #f8ecc2;
+
+		}
+
+
+		h3 {
+
+			position: relative;
+			left: 15px;
+
+		}
+
+
+		img {
+
+			position: relative;
+			left: 15px;
+
+		}
+
+
+		.text {
+
+			font-size: 14px;
+			border: 1px solid #0E0E0E;
+			padding: 10px;
+			margin-right: 29px;
+			position: relative;
+			left: 15px;
+			top: 10px;
+		}
+
+
+		ul > li {
+
+			list-style-type: none;
+			position: relative;
+			right: 39px;
+
+		}
+
+
+		ul > li > span {
+			
+			font-weight: bold;
+		}	
